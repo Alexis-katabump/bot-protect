@@ -1,4 +1,4 @@
-# Présentation du bot de protection v2
+# Présentation du bot de protection 
 
 **Fonctionnalités principales:**
 
